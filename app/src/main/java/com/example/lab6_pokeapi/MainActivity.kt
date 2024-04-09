@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
         btnGenPokemon = findViewById(R.id.btnGenPokemon)
         recyclerView = findViewById(R.id.recyclerView)
 
-        pokemonAdapter = PokemonAdapter(pokemonList)
+        pokemonAdapter = PokemonAdapter(this, pokemonList)
         recyclerView.adapter = pokemonAdapter
         recyclerView.layoutManager = LinearLayoutManager(this)
 

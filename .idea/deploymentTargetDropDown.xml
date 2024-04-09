@@ -9,13 +9,13 @@
               <type value="RUNNING_DEVICE_TARGET" />
               <deviceKey>
                 <Key>
-                  <type value="VIRTUAL_DEVICE_PATH" />
-                  <value value="C:\Users\morga\.android\avd\Pixel_5_API_31.avd" />
+                  <type value="SERIAL_NUMBER" />
+                  <value value="RF8M438PKWR" />
                 </Key>
               </deviceKey>
             </Target>
           </runningDeviceTargetSelectedWithDropDown>
-          <timeTargetWasSelectedWithDropDown value="2024-04-02T04:39:20.272831Z" />
+          <timeTargetWasSelectedWithDropDown value="2024-04-09T05:41:05.953114400Z" />
         </State>
       </entry>
     </value>

@@ -3,4 +3,24 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="pokedex_red">#BB5858</color>
+    <color name="pokeball_red">#BB3736</color>
+
+    <color name="dark">#000000</color>
+    <color name="fighting">#CC5933</color>
+    <color name="fire">#ED430D</color>
+    <color name="electric">#F9B715</color>
+    <color name="ground">#D1B157</color>
+    <color name="rock">#B9A057</color>
+    <color name="bug">#9DAC16</color>
+    <color name="grass">#71C236</color>
+    <color name="ice">#6CD2F5</color>
+    <color name="flying">#819AEB</color>
+    <color name="water">#3696F6</color>
+    <color name="ghost">#7577DF</color>
+    <color name="dragon">#7455FF</color>
+    <color name="poison">#B04FB1</color>
+    <color name="psychic">#EC4881</color>
+    <color name="fairy">#F1AAF3</color>
+    <color name="normal">#C4BFB5</color>
+    <color name="steel">#ABA9B4</color>
 </resources>

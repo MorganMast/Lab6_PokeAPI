@@ -1,44 +1,41 @@
-# AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
+﻿<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
+
+# AND101 Project 7 - CYOAPI Part 3: Beautified
 
 Submitted by: Morgan Mast
 
-Time spent: 4 hours spent in total
+Time spent: 2 hours spent in total
 
 ## Summary
 
-PokeAPI Pokemon Generator is an android app that generates a small profile of a random pokemon whenever you press the button to do so, and adds it to a recyclerview to see a history of all pokemon generated.
+This app is an updated version of an app that generates a small profile of a random pokemon whenever you press the button to do so, and adds it to a recyclerview to see a history of all pokemon generated. Now the look of the app have been updated, including a new custom font and code to adjust the color of the text describing a pokemon's type based on said type.
+
 If I had to describe this project in three (3) emojis, they would be: 🐁🐦🦎
 
 ## Application Features
+
 The following REQUIRED features are completed:
 
-- [X] Make an API call to an API of your choice using AsyncHTTPClient
-- [X] Implement a RecyclerView to display a list of entries from the API
-- [X] Display at least three (3) pieces of data for each RecyclerView item
+- [X] App contains a RecyclerView that displays a list of scrollable data
+- [X] App displays at least two (2) pieces of data for each RecyclerView item
+- [X] Use a downloadable font with custom color and size
+- [X] Modify the theme of the app in `themes.xml`
+- [X] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
 
 The following STRETCH features are implemented:
 
-- [ ] Add a UI element for the user to interact with API further
-- [ ] Show a `Toast` or `Snackbar` when an item is clicked
-- [ ] Add item dividers with `DividerItemDecoration`
-
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
+- [ ] Update the night theme to use different versions of styles when in dark mode
+- [ ] Use different drawables when in dark mode
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-https://imgur.com/a/gNjDx8U.gif
+https://imgur.com/a/Ogib2FQ
 
 GIF created with Android Studio
 
-## Notes
-
-## License
-
-Copyright 2024 Morgan Mast
+## License: Copyright 2024 Morgan Mast
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
