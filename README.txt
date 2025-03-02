@@ -10,7 +10,6 @@ Here's a video / GIF that demos all of the app's implemented features:
 https://imgur.com/a/Ogib2FQ
 GIF created with Android Studio
 
-License: 
 Copyright 2024 Morgan Mast
 
 Licensed under the Apache License, Version 2.0 (the "License");
