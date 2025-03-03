@@ -3,5 +3,6 @@
     <style name="Base.Theme.Lab6_PokeAPI" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name ="android:statusBarColor" tools:targetAPI="1">#9C2E2D</item>
     </style>
 </resources>
