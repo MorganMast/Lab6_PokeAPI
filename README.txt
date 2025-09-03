@@ -1,4 +1,4 @@
-This app is an updated version of an app that generates a small profile of a random pokemon whenever you press the button to do so, and adds it to a recyclerview to see a history of all pokemon generated. Now the look of the app have been updated, including a new custom font and code to adjust the color of the text describing a pokemon's type based on said type.
+This is an android app that generates a small profile of a random pokemon whenever you press the button to do so, and adds it to a recyclerview to see a history of all pokemon generated.
 
 - App contains a RecyclerView that displays a list of scrollable data
 - App displays data for each RecyclerView item
